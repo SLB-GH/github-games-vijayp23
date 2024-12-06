@@ -4,6 +4,6 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: https://slb-gh.github.io/github-games-vijayp23/
 
->> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari and Opera
+>> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari and Opera, etc
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
